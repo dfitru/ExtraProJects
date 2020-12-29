@@ -1,0 +1,10 @@
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\bin\Debug\OutGoing_Console.exe.config
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\bin\Debug\OutGoing_Console.exe
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\bin\Debug\OutGoing_Console.pdb
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\bin\Debug\OutingsClass.dll
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\bin\Debug\OutingsClass.pdb
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\obj\Debug\OutGoing_Console.csprojAssemblyReference.cache
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\obj\Debug\OutGoing_Console.csproj.CoreCompileInputs.cache
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\obj\Debug\OutGoing_Console.csproj.CopyComplete
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\obj\Debug\OutGoing_Console.exe
+D:\Projects\ElevenFifty\Project\OutingsClass\OutGoing_Console\obj\Debug\OutGoing_Console.pdb

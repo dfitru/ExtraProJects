@@ -1,0 +1,6 @@
+D:\Projects\ElevenFifty\Project\OutingsClass\OutingsClass\bin\Debug\OutingsClass.dll
+D:\Projects\ElevenFifty\Project\OutingsClass\OutingsClass\bin\Debug\OutingsClass.pdb
+D:\Projects\ElevenFifty\Project\OutingsClass\OutingsClass\obj\Debug\OutingsClass.csprojAssemblyReference.cache
+D:\Projects\ElevenFifty\Project\OutingsClass\OutingsClass\obj\Debug\OutingsClass.csproj.CoreCompileInputs.cache
+D:\Projects\ElevenFifty\Project\OutingsClass\OutingsClass\obj\Debug\OutingsClass.dll
+D:\Projects\ElevenFifty\Project\OutingsClass\OutingsClass\obj\Debug\OutingsClass.pdb
