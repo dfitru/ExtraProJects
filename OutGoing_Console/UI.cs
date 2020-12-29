@@ -105,6 +105,7 @@ namespace OutGoing_Console
             int eventType = int.Parse(outingType);
 
             Outings outings = new Outings(numberOfPeople,date,totalCost,cost,(EventType)eventType);
+            _outingRepo.AddOuting(outings);
         }
         public void UpdateOuting()
         {
